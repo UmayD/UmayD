@@ -1,6 +1,9 @@
-### Hi there, I'm Umay 👋
+# Hi there, I'm Umay 👋
+
 
 #### I'm a passionate Software Engineer, desiring to explore on Web Development
+
+-----------------
 
 - 🐿️ I’m currently working at IFRC as a Data Scientist.
 - 🔙 Previously, I've got the chance to work as a Front-end Developer and found my passion 🙌
@@ -8,10 +11,12 @@
 
 ### Tech Stack
 
-<div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" alt="html5"/>
+-----------------
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px" alt="css"/>
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" padding="5px" alt="html5"/>
+
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px" padding="5px" alt="css"/>
   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30px" alt="sass"/>
   
