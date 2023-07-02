@@ -9,9 +9,9 @@
 - 🔙 Previously, I've got the chance to work as a Front-end Developer and found my passion 🙌
 - 🌱 I’m currently writing Python, ReactJS, NextJS.
 
-### Tech Stack
-
 -----------------
+
+## Tech Stack
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" padding="5px" alt="html5"/>
