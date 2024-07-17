@@ -1,15 +1,7 @@
-# Hi there, I'm Umay 👋
+currently on Python, Django, React, NextJS
 
 
-#### I'm a passionate Software Engineer, desiring to explore on Web Development
 
------------------
-
-- 🐿️ I’m currently working at IFRC as a Data Scientist.
-- 🔙 Previously, I've got the chance to work as a Front-end Developer and found my passion 🙌
-- 🌱 I’m currently writing Python, ReactJS, NextJS.
-
------------------
 
 ## Tech Stack
 
