@@ -1,33 +1,6 @@
 currently on Python, Django, React, NextJS
 
 
-
-
-## Tech Stack
-
-<div>
-
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" alt="reactjs" unselectable="on"/>
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="27px" alt="javascript"/>
-
-  <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" width="28px" alt="python"/>
-
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="60px" alt="django"/>
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" padding="5px" alt="html5"/>
-
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px" padding="5px" alt="css"/>
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30px" alt="sass"/>
-  
-</div>
-
-
-
-
-
-
 <!--
 **UmayD/UmayD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
